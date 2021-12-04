@@ -1,2 +1,2 @@
-# hackerrank
-Solutions of different HackerRank problems
+# The HackerRank Interview Preparation Kit
+https://www.hackerrank.com/interview/interview-preparation-kit
